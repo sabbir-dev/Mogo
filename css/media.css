@@ -1,0 +1,674 @@
+@media(min-width: 1200px) and (max-width:1399.99px){
+    .footer-search button {
+        right: 51px;
+    }
+     /*----banner part responsive start-----*/
+    .banner-text h1 {
+        font-size: 90px;
+    }
+    .banner-text h2 {
+        font-size: 50px;
+    }
+    
+
+    .banner-button a {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+        /*----banner part responsive end-----*/
+
+}
+@media(min-width: 992px) and (max-width:1199.99px){
+     /*----navbar  part responsive start-----*/ 
+     .banner-text h1 {
+        font-size: 90px;
+    }
+    .banner-text h2 {
+        font-size: 50px;
+    }
+    /*----navbar part responsive start-----*/
+    /*----banner part responsive start-----*/
+    #banner{
+        margin-bottom: 0px;
+    }
+    .banner-text h1 {
+        font-size: 90px;
+    }
+    .banner-text h2 {
+        font-size: 50px;
+    }
+    
+
+    .banner-button a {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+        /*----banner part responsive end-----*/
+
+        /*----about part responsive start-----*/
+        #about{
+            margin-top: 50px;
+        }
+        .about-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        .header h3 {
+            font-size: 20px;
+        }
+        .header h4 {
+            font-size: 18px;
+        }
+        /*----about part responsive end-----*/
+
+        /*----servicepart responsive start-----*/
+        #service {
+            margin-top: 50px;
+        }.service-iteam {
+            padding-top: 25px;
+            padding-bottom: 50px;
+        }
+        .service-icon {
+            margin-bottom: 25px;
+            margin-top: 10px;
+        }
+        #service.pe-0 {
+            padding-right: 12px;
+        }
+        .service-content p {
+            padding-right: 0px;
+        }
+        .service-iteam1 {
+            padding-top: 0px;
+        }
+        /*---service part responsive end-----*/
+        /*---comment part responsive start-----*/
+        .comment-content p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-right: 0px;
+            margin-top: 25px;
+        }
+        
+        /*---comment part responsive end-----*/
+
+        /*----team part responsive start-----*/
+        #team {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .team-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+           
+        }
+        /*----team part responsive end-----*/
+
+        /*-----work  part responsive start-----*/
+        .work-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        /*-----work  part responsive end-----*/
+
+        /*-----footer part responsive start-----*/
+        #footer {
+            margin-top: 0px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .footer-text p {
+            font-size: 13px;
+            padding-right: 0px; 
+        }
+        .footer-search input {
+            width: 100%;
+        }
+        .social-logo span {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .social-logo i {
+            font-size: 20px;
+            padding-right: 5px;
+        }
+        .footer-search button {
+            padding: 15px 30px;
+             position: static;
+            font-size: 13px;
+            margin-top: 15px;
+        }
+        .blog-content p {
+            padding-right: 0px;
+            padding-top: 25px;
+        }
+        .footer-header h4 {
+            padding-bottom: 20px;
+            padding-top: 30px;
+        }
+        .copyright-claim p {
+            padding-top: 15px;
+            font-weight: 300;
+            font-size: 13px;
+            margin-bottom: 0px;
+        }
+        
+}
+@media(min-width: 768px) and (max-width:991.99px){
+     /*----navbar  part responsive start-----*/ 
+     .navbar{
+        padding-top: 0px;
+        padding-bottom: 10px;
+        position: static;
+        background-image:linear-gradient(to bottom, rgba(252, 227, 138, 0.9), rgba(243, 129, 129, 0.9))
+    }
+    .navbar-toggler i {
+       color:#000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+         padding-right: 0px; 
+         padding-left: 0px; 
+    }
+    .navbar-brand {
+        margin-left: 1rem;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+       display: none;
+    }
+    /*----navbar part responsive start-----*/
+    /*----banner part responsive start-----*/
+    #banner{
+        margin-bottom: 0px;
+    }
+    .banner-text h1 {
+        font-size: 53px;
+    }
+    .banner-text h2 {
+        font-size: 35px;
+    }
+    
+    .banner-text h1::after {
+       display: none;
+    }
+    .banner-button{
+        padding-top: 10px;
+    }
+    .banner-button a {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+        /*----banner part responsive end-----*/
+
+        /*----about part responsive start-----*/
+        #about{
+            margin-top: 50px;
+        }
+        .about-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        .header h3 {
+            font-size: 20px;
+        }
+        .header h4 {
+            font-size: 18px;
+        }
+        /*----about part responsive end-----*/
+
+        /*----servicepart responsive start-----*/
+        #service {
+            margin-top: 50px;
+        }.service-iteam {
+            padding-top: 25px;
+            padding-bottom: 50px;
+        }
+        .service-icon {
+            margin-bottom: 25px;
+            margin-top: 10px;
+        }
+        #service.pe-0 {
+            padding-right: 12px;
+        }
+        .service-content p {
+            padding-right: 0px;
+        }
+        .service-iteam1 {
+            padding-top: 0px;
+        }
+        /*---service part responsive end-----*/
+        /*---comment part responsive start-----*/
+        .comment-content p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-right: 0px;
+            margin-top: 25px;
+        }
+        
+        /*---comment part responsive end-----*/
+
+        /*----team part responsive start-----*/
+        #team {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .team-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+           
+        }
+        /*----team part responsive end-----*/
+
+        /*-----work  part responsive start-----*/
+        .work-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        /*-----work  part responsive end-----*/
+
+        /*-----footer part responsive start-----*/
+        #footer {
+            margin-top: 0px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .footer-text p {
+            font-size: 13px;
+            padding-right: 0px; 
+        }
+        .footer-search input {
+            width: 100%;
+        }
+        .social-logo span {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .social-logo i {
+            font-size: 20px;
+            padding-right: 5px;
+        }
+        .footer-search button {
+            padding: 15px 30px;
+             position: static;
+            font-size: 13px;
+            margin-top: 15px;
+        }
+        .blog-content p {
+            padding-right: 0px;
+            padding-top: 25px;
+        }
+        .footer-header h4 {
+            padding-bottom: 20px;
+            padding-top: 30px;
+        }
+        .copyright-claim p {
+            padding-top: 15px;
+            font-weight: 300;
+            font-size: 13px;
+            margin-bottom: 0px;
+        }
+      
+        
+        
+}
+@media(min-width: 576px) and (max-width:767px){
+     /*----navbar  part responsive start-----*/ 
+     .navbar{
+        padding-top: 0px;
+        padding-bottom: 10px;
+        position: static;
+        background-image:linear-gradient(to bottom, rgba(252, 227, 138, 0.9), rgba(243, 129, 129, 0.9))
+    }
+    .navbar-toggler i {
+       color:#000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+         padding-right: 0px; 
+         padding-left: 0px; 
+    }
+    .navbar-brand {
+        margin-left: 1rem;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+       display: none;
+    }
+    /*----navbar part responsive start-----*/
+    /*----banner part responsive start-----*/
+    #banner{
+        margin-bottom: 0px;
+    }
+    .banner-text h1 {
+        font-size: 53px;
+    }
+    .banner-text h2 {
+        font-size: 35px;
+    }
+    
+    .banner-text h1::after {
+       display: none;
+    }
+    .banner-button{
+        padding-top: 10px;
+    }
+    .banner-button a {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+        /*----banner part responsive end-----*/
+
+        /*----about part responsive start-----*/
+        #about{
+            margin-top: 50px;
+        }
+        .about-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        .header h3 {
+            font-size: 20px;
+        }
+        .header h4 {
+            font-size: 18px;
+        }
+        /*----about part responsive end-----*/
+
+        /*----servicepart responsive start-----*/
+        #service {
+            margin-top: 50px;
+        }.service-iteam {
+            padding-top: 25px;
+            padding-bottom: 50px;
+        }
+        .service-icon {
+            margin-bottom: 25px;
+            margin-top: 10px;
+        }
+        #service.pe-0 {
+            padding-right: 12px;
+        }
+        .service-content p {
+            padding-right: 0px;
+        }
+        .service-iteam1 {
+            padding-top: 0px;
+        }
+        .comment-content p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-right: 0px;
+            margin-top: 25px;
+        }
+        .comment-content h5::after {
+            display: none;
+        }
+        .comment-content h5 {
+             padding-left: 0px; 
+        }
+        /*---service part responsive end-----*/
+
+        /*----team part responsive start-----*/
+        #team {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .team-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+           
+        }
+        .team-iteam i {
+            padding: 8px 12px;
+            font-size: 14px;
+        }
+        /*----team part responsive end-----*/
+
+        /*-----work  part responsive start-----*/
+        .work-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        /*-----work  part responsive end-----*/
+
+        /*-----footer part responsive start-----*/
+        #footer {
+            margin-top: 0px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .footer-text p {
+            font-size: 13px;
+            padding-right: 0px; 
+        }
+        .footer-search input {
+            width: 100%;
+        }
+        .social-logo span {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .social-logo i {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .footer-search button {
+            padding: 15px 30px;
+             position: static;
+            font-size: 13px;
+            margin-top: 15px;
+        }
+        .blog-content p {
+            padding-right: 0px;
+            padding-top: 25px;
+        }
+        .footer-header h4 {
+            padding-bottom: 20px;
+            padding-top: 30px;
+        }
+        .copyright-claim p {
+            padding-top: 15px;
+            font-weight: 300;
+            font-size: 13px;
+            margin-bottom: 0px;
+        }
+        .back-to-top {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 13px;
+        }
+        @media(min-width: 576px) and (max-width:768px){
+            .service-content p {
+                padding-right:  60px;
+                padding-left: 60px;
+            }
+        }
+        
+}
+@media(max-width:575.99px){
+    /*----navbar  part responsive start-----*/ 
+    .navbar{
+        padding-top: 0px;
+        padding-bottom: 10px;
+        position: static;
+        background-image:linear-gradient(to bottom, rgba(252, 227, 138, 0.9), rgba(243, 129, 129, 0.9))
+    }
+    .navbar-toggler i {
+       color:#000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+         padding-right: 0px; 
+         padding-left: 0px; 
+    }
+    .navbar-brand {
+        margin-left: 1rem;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-collapse {
+        text-align: center;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+       display: none;
+    }
+    /*----navbar part responsive start-----*/
+    /*----banner part responsive start-----*/
+    #banner{
+        margin-bottom: 0px;
+    }
+    .banner-text h1 {
+        font-size: 20px;
+    }
+    .banner-text h2{
+        font-size: 18px;
+    
+    }
+    .banner-text h1::after {
+       display: none;
+    }
+    .banner-button{
+        padding-top: 10px;
+    }
+    .banner-button a {
+        padding: 7px 20px;
+        font-size: 13px;
+    }
+        /*----banner part responsive end-----*/
+
+        /*----about part responsive start-----*/
+        #about{
+            margin-top: 50px;
+        }
+        .about-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        .header h3 {
+            font-size: 20px;
+        }
+        .header h4 {
+            font-size: 18px;
+        }
+        /*----about part responsive end-----*/
+
+        /*----servicepart responsive start-----*/
+        #service {
+            margin-top: 50px;
+        }.service-iteam {
+            padding-top: 25px;
+            padding-bottom: 50px;
+        }
+        .service-icon {
+            margin-bottom: 25px;
+            margin-top: 10px;
+        }
+        #service.pe-0 {
+            padding-right: 12px;
+        }
+        .service-content p {
+            padding-right: 0px;
+        }
+        .service-iteam1 {
+            padding-top: 0px;
+        }
+        .comment-content p {
+            font-size: 18px;
+            line-height: 30px;
+            padding-right: 0px;
+            margin-top: 25px;
+        }
+        .comment-content h5::after {
+            display: none;
+        }
+        .comment-content h5 {
+             padding-left: 0px; 
+        }
+        /*---service part responsive end-----*/
+
+        /*----team part responsive start-----*/
+        #team {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .team-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        /*----team part responsive end-----*/
+
+        /*-----work  part responsive start-----*/
+        .work-text p {
+            font-size: 13px;
+            padding: 15px 0px 40px 0px;
+        }
+        /*-----work  part responsive end-----*/
+
+        /*-----footer part responsive start-----*/
+        #footer {
+            margin-top: 0px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+        .footer-text p {
+            font-size: 13px;
+            padding-right: 0px; 
+        }
+        .footer-search input {
+            width: 100%;
+        }
+        .social-logo span {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .social-logo i {
+            font-size: 13px;
+            padding-right: 5px;
+        }
+        .footer-search button {
+            padding: 15px 30px;
+             position: static;
+            font-size: 13px;
+            margin-top: 15px;
+        }
+        .blog-content p {
+            padding-right: 0px;
+            padding-top: 25px;
+        }
+        .footer-header h4 {
+            padding-bottom: 20px;
+            padding-top: 30px;
+        }
+        .copyright-claim p {
+            padding-top: 15px;
+            font-weight: 300;
+            font-size: 13px;
+            margin-bottom: 0px;
+        }
+        .back-to-top {
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            font-size: 13px;
+        }
+        /*----footer part responsive end-----*/
+        @media(min-width: 485px) and (max-width:575px){
+            .service-content p {
+                padding-right:  60px;
+                padding-left: 60px;
+            }
+        }
+        /*----footer part responsive end-----*/
+        /*----footer part responsive end-----*/
+
+}
